@@ -1,0 +1,13 @@
+/*It worked!*/
+
+
+h1 {
+    font-family: cursive;
+    color: red;
+    text-align: center;
+}
+button {
+    float: center;
+    color: white;
+    background-color: blue;
+}
